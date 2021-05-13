@@ -17,10 +17,8 @@ def count_nucleotides(dna_str):
             string containing nucleotides (ATCG))
     
     Returns:
-	--------
-        problem output: str with count of each nucleotide: 'A C G T'
-		
-	ATCG 
+    --------
+        problem output: str with count of each nucleotide: 'A C G T' 
     """
     
     # Count the symbols (treats a string like an iterable)
