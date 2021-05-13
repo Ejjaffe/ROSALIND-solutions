@@ -27,3 +27,9 @@ def count_nucleotides(dna_str):
     # specify order ACGT and format between spaces
     order_cts = [ctr[symb] for symb in ['A','C','G','T']]
     return " ".join(str(ct) for ct in order_cts)
+
+
+if __name__ == '__main__':
+	with open(r"C:\path\to\rosalind_dna.txt") as file:
+		line = file.read()
+		print(count_nucleotides(line))
