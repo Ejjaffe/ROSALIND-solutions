@@ -1,6 +1,9 @@
 """
 Counting DNA Nucleotides
 http://rosalind.info/problems/dna/
+
+Recommended viewing on github:
+https://github.com/Ejjaffe/ROSALIND-solutions/blob/main/src/CountingDnaNucleotides.py?ts=4
 """
 from collections import Counter
 
