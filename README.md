@@ -1,2 +1,2 @@
 # ROSALIND-solutions
-Bioinformatics challenges
+Solutions to [ROSALIND](http://rosalind.info/problems/locations/) Bioinformatics challenges.
