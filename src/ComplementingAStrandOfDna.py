@@ -12,10 +12,10 @@ BP_COMPLIMENTS = {
 
 def reverse_compliment(dna):
 	"""
+	In DNA strings, symbols 'A' and 'T' are complements of each other, as are 'C' and 'G'.
+	
 	The reverse complement of a DNA string s is the string s^c formed by reversing the symbols of s, 
 	then taking the complement of each symbol (e.g., the reverse complement of "GTCA" is "TGAC").
-	
-	In DNA strings, symbols 'A' and 'T' are complements of each other, as are 'C' and 'G'.
 	
 	Params:
 	-------
